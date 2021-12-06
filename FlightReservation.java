@@ -10,7 +10,7 @@ import java.util.*;
  * Implements reservation system mimicing an airline flight registration program, where users are able to add passengers,
  * remove them, see seat availability, and access the flight manifest
  */
-public class ReservationSystem {
+public class FlightReservation {
 
 	/**
 	 * Allows user to add or remove passengers, then saves flight info to flight file
